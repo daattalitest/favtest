@@ -20,11 +20,12 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "about"
+  Humanitarian Alliance: "humanitarianalliance"
+  Ideals Nexus: "idealsnexus"
+  International: 
+    - Chanje Ayiti: "chanjeayiti"
+  Join the Team: "build"
 
 ################
 # --- Logo --- #
